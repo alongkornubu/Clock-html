@@ -1,0 +1,13 @@
+#display{
+	font-size:50px;
+	font-weight: bold;
+	background-color:#000;
+	color: #0ff;
+	padding: 6px;
+	border: #999 2px inset ;
+	letter-spacing: 2px;
+	display: inline;
+
+
+        
+}
